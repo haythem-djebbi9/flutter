@@ -1,0 +1,43 @@
+{
+  "etudiants": [
+    {
+      "id": 1,
+      "nom": "Doe",
+      "prenom": "John",
+      "age": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-Oiuw0qRnDtszYr5-EpF4FazYJMHiS43Vw&usqp=CAU",
+      "date": "2023-10-26",
+      "classe" : "DSI22",
+      "listenote": [
+        {"matiere": "Mathématiques", "note": 85},
+        {"matiere": "Français", "note": 90}
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Smith",
+      "prenom": "Alice",
+      "age": 22,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-Oiuw0qRnDtszYr5-EpF4FazYJMHiS43Vw&usqp=CAU",
+      "date": "2023-10-26",
+      "classe" : "DSI22",
+      "listenote": [
+        {"matiere": "Mathématiques", "note": 88},
+        {"matiere": "Français", "note": 92}
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Johnson",
+      "prenom": "Bob",
+      "age": 21,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-Oiuw0qRnDtszYr5-EpF4FazYJMHiS43Vw&usqp=CAU",
+      "date": "2023-10-26",
+      "classe" : "DSI23",
+      "listenote": [
+        {"matiere": "Mathématiques", "note": 78},
+        {"matiere": "Français", "note": 85}
+      ]
+    }
+  ]
+}
